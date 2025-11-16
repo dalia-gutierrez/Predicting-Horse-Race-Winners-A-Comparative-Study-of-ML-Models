@@ -1,5 +1,5 @@
 # Predicting-Horse-Race-Winners-A-Comparative-Study-of-ML-Models
-Scrapes Palermo race data, engineers features (age, weight, jockey, pedigree), and compares Elastic Net, RF, XGBoost, NN to predict winners.
+Scrapes [Hipódromo Argentino de Palermo](https://www.palermo.com.ar) race data, engineers features (age, weight, jockey, pedigree), and compares Elastic Net, RF, XGBoost, NN to predict winners.
 
 ![R](https://img.shields.io/badge/R-4.3%2B-blue)
 ![caret](https://img.shields.io/badge/caret-ML-orange)
@@ -35,8 +35,8 @@ This project builds a **full end-to-end ML pipeline** to predict horse race winn
 | Model | F1 | AUC |
 |------|----|-----|
 | Elastic Net | 0.27 | 0.67 |
-| Random Forest | 0.28  & 0.67 |
+| Random Forest | 0.28  | 0.67 |
 | **XGBoost** | **0.29** | **0.67** |
-| Neural Net (PCA) | 0.24 & 0.62 |
+| Neural Net (PCA) | 0.24 | 0.62 |
 
 > **Honest, real-world performance** — horse racing is near-random without market data. Focus: **correct methodology**, not overfitting.
