@@ -11,7 +11,7 @@ Scrapes [Hipódromo Argentino de Palermo](https://www.palermo.com.ar) race data,
 
 ## Project Overview
 
-This project builds a **full end-to-end ML pipeline** to predict horse race winners using public data from the **Hipódromo Argentino de Palermo**. It demonstrates **quant-grade rigor** in data collection, feature engineering, and model evaluation — ideal for high-frequency prediction tasks.
+This project builds a **full end-to-end ML pipeline** to predict horse race winners using public data from the **Hipódromo Argentino de Palermo**. It demonstrates **rigor** in data collection, feature engineering, and model evaluation — ideal for high-frequency prediction tasks.
 
 **Key challenge**: Predict the winner **per race** using only pre-race information (no odds, no live data). Class imbalance: ~1 in 10 horses wins.
 
