@@ -40,3 +40,11 @@ This project builds a **full end-to-end ML pipeline** to predict horse race winn
 | Neural Net (PCA) | 0.24 | 0.62 |
 
 > **Honest, real-world performance** — horse racing is near-random without market data. Focus: **correct methodology**, not overfitting.
+
+---
+
+## Files
+
+- `data_extract.R` → Scraper (rvest)
+- `Dalia_Gutierrez_entrega.R` → Models comparison
+- `race_results_final.csv` → Scrapped dataset
