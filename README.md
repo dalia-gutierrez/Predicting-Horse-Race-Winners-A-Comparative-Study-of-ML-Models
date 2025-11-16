@@ -1,5 +1,5 @@
 # Predicting-Horse-Race-Winners-A-Comparative-Study-of-ML-Models
-Scrapes [Hipódromo Argentino de Palermo](https://www.palermo.com.ar) race data, engineers features (age, weight, jockey, pedigree), and compares Elastic Net, RF, XGBoost, NN to predict winners.
+Scrapes [Hipódromo Argentino de Palermo](https://www.palermo.com.ar) 2024 race data, engineers features (age, weight, jockey, pedigree), and compares Elastic Net, RF, XGBoost, NN to predict winners.
 
 ![R](https://img.shields.io/badge/R-4.3%2B-blue)
 ![caret](https://img.shields.io/badge/caret-ML-orange)
